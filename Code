@@ -1,0 +1,22 @@
+#Este proyecto es una herramienta para permitirle al usuario saber su direccion IP y el nombre de su PC
+
+import socket
+
+hostname = socket.gethostname()
+ip = socket.gethostbyname(hostname)
+
+print("Quieres saber el nombre de tu PC o tu Direccion IP? (Selecciona IP o PC)")
+opciones = input()
+
+if opciones == "IP":
+    print("Tu direccion IP es: " + ip)
+
+if opciones == "PC":
+    print("El nombre de tu PC es: " + hostname)
+
+else:
+    if opciones == "IP":
+        print("")
+
+    else:
+        print("Respuesta incorrecta, debes escribir IP o PC")
