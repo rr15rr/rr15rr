@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rafael Rodriguez de San Miguel, or @rr15rr
+- 👋 Hi, I’m Rafael Rodriguez de San Miguel or @rr15rr
 - 👀 I’m interested in Cybersecurity and coding with Python
-- 🌱 I’m currently Studying Software Development
+- 🌱 I’m currently Studying Software Development and looking for work in a IT position
 - 📫 How to reach me: rafarsmb07@gmail.com
 
 <!---
