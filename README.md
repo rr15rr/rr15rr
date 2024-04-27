@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Rodriguez de San Miguel Beltri or @rr15rr
-- 👀 I’m interested in Cybersecurity and coding with Python
-- 🌱 I’m currently Studying Software Development and looking for work in an IT position
+- 👀 I’m interested in Cybersecurity and Software Development
+- 🌱 I’m currently Studying Software Development Engineering and i am currently looking for work in an IT position
 - 📫 How to reach me: rafarsmb07@gmail.com
 - The rest of my projects are in the "Repositories" area, there you can see them all. Thanks for visiting my profile!
 
